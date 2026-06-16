@@ -239,35 +239,6 @@ Main screens:
 
 ---
 
-## Project Deliverables
-
-```text
-Project Documents
-│
-├── Business Requirements
-├── Stakeholder Analysis
-├── Functional Requirements
-├── Non Functional Requirements
-│
-├── Process Models
-│   ├── IFD
-│   ├── BFD
-│   ├── Context Diagram
-│   └── DFD
-│
-├── Database Design
-│   ├── ERD
-│   ├── Database Schema
-│   └── Data Dictionary
-│
-├── UI Design
-│   └── Figma Mockups
-│
-└── Final Report
-```
-
----
-
 ## Key Skills Demonstrated
 
 ### Business Analysis
