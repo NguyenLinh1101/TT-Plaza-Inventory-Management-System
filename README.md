@@ -1,283 +1,69 @@
-# T&T Plaza Inventory Management System
+# 📦 T&T Plaza Inventory Management System
 
-## Overview
+## 🧭 Overview
+Business Analysis & System Design project for **T&T Plaza (Hai Phong, Vietnam)**, developed under the **Management Information Systems program at National Economics University (NEU)**.
 
-This project was developed as part of the Management Information Systems program at National Economics University (NEU).
-
-The project focuses on analyzing and designing an Inventory Management System for T&T Plaza, a retail supermarket located in Hai Phong, Vietnam.
-
-The objective was to identify current inventory management challenges, gather business requirements, model business processes, and design a system that supports inventory control, stock movement tracking, warehouse operations, and management reporting.
+The project focuses on analyzing current manual inventory processes and designing a centralized system to improve stock control, accuracy, and reporting efficiency.
 
 ---
 
-## Project Information
+## 🚨 Business Problem
+Current inventory management using Excel leads to:
 
-| Item | Details |
-|--------|--------|
-| Project Name | T&T Plaza Inventory Management System |
-| Domain | Retail / Inventory Management |
-| Project Type | Business Analysis & System Analysis |
-| Duration | January 2026 – April 2026 |
-| Organization | T&T Plaza |
-| Location | Hai Phong, Vietnam |
+- Stock discrepancies and inaccurate records  
+- No real-time inventory visibility  
+- Manual and time-consuming stock tracking  
+- Weak reporting and decision support  
+- Risk of stockouts and overstocking  
 
 ---
 
-## My Responsibilities
+## 💡 Proposed Solution
+Design of a centralized **Inventory Management System (IMS)** to digitize warehouse operations:
 
-During this project, I was responsible for:
-
-- Business process analysis
-- Requirement gathering and documentation
-- Stakeholder analysis
-- Functional and non-functional requirement definition
-- Process modeling
-- Data flow modeling
-- Database design
-- User interface prototyping
-- System documentation
+- Product & supplier management  
+- Goods receiving & issuing  
+- Inventory tracking by batch and location  
+- Inventory auditing and stock adjustments  
+- Reporting & analytics  
 
 ---
 
-## Business Problem
-
-Current inventory operations rely heavily on Excel spreadsheets and manual processes.
-
-Key issues identified:
-
-- Delayed inventory updates
-- Inventory discrepancies
-- Difficult stock tracking
-- Manual inventory counting
-- Lack of real-time visibility
-- Limited reporting capability
-- High risk of stock shortages and overstocking
+## 👥 My Role (Business Analyst)
+- Requirement gathering & documentation  
+- Stakeholder analysis  
+- AS-IS / TO-BE process modeling  
+- Data Flow Diagrams (DFD), Context Diagram, BFD  
+- ERD database design support  
+- UI wireframe design (Figma)  
 
 ---
 
-## Proposed Solution
-
-The proposed Inventory Management System provides:
-
-- Product Management
-- Supplier Management
-- Warehouse Management
-- Stock Inbound Management
-- Stock Outbound Management
-- Inventory Auditing
-- Inventory Tracking by Batch
-- Location Management
-- Reporting & Analytics
+## ⚙️ Key Deliverables
+- Business Requirement Document (BRD-style)  
+- Process models (DFD, IFD, Context Diagram)  
+- Database design (ERD – 14 entities)  
+- UI prototype (Figma)  
+- System specification documentation  
 
 ---
 
-## Stakeholders
-
-### Primary Stakeholders
-
-- Store Manager
-- Warehouse Staff
-- Purchasing Staff
-- Accountants
-- Sales Staff
-
-### Secondary Stakeholders
-
-- Suppliers
-- Customers
-- System Administrators
+## 🛠 Tools
+Draw.io • Figma • Microsoft Word • SQL Server  
 
 ---
 
-## Functional Requirements
-
-### Employee & Supplier Management
-
-- Create employee profiles
-- Update employee information
-- Create supplier profiles
-- Manage supplier information
-
-### Product Management
-
-- Manage product catalog
-- Manage product categories
-- Product search and filtering
-
-### Inbound Inventory Management
-
-- Create purchase receipts
-- Record stock arrivals
-- Update inventory automatically
-
-### Outbound Inventory Management
-
-- Create stock issue notes
-- Transfer products to display areas
-- Process returned goods
-
-### Inventory Control
-
-- Real-time inventory tracking
-- Inventory auditing
-- Variance detection
-- Inventory adjustment
-
-### Reporting
-
-- Inventory reports
-- Stock movement reports
-- Inventory audit reports
-- Low-stock reports
-- Slow-moving inventory reports
+## 🎓 Academic Context
+- National Economics University (NEU)  
+- Management Information Systems  
+- Systems Analysis & Design project  
 
 ---
 
-## Non-Functional Requirements
+## 👤 Author
+**Nguyen Thi Ngoc Linh**  
+Business Analyst | System Analyst
 
-### Usability
+Email: ngoclinh2k51112@gmail.com
 
-- Easy-to-use interface
-- Simple navigation
-- Fast search capability
-
-### Security
-
-- User authentication
-- Role-based authorization
-- Data protection
-
-### Data Integrity
-
-- Consistent inventory records
-- Audit logging
-- Transaction tracking
-
----
-
-## Business Process Models
-
-The system was modeled using:
-
-### Information Flow Diagrams (IFD)
-
-- Product Management
-- Inventory Receiving
-- Inventory Issuing
-- Inventory Auditing
-
-### Business Function Diagram (BFD)
-
-- Functional decomposition of the entire system
-
-### Context Diagram (CD)
-
-- External actors and system interactions
-
-### Data Flow Diagrams (DFD)
-
-- Level 0 DFD
-- Level 1 DFD
-
----
-
-## Database Design
-
-The database consists of 14 main entities:
-
-- Employees
-- Suppliers
-- Categories
-- Products
-- Storage Locations
-- Inventory Batches
-- Inventory Records
-- Inventory Logs
-- Goods Receipts
-- Receipt Details
-- Goods Issues
-- Issue Details
-- Inventory Audits
-- Audit Details
-
-### ER Diagram
-
-The database was designed using Entity Relationship Modeling (ERD).
-
-Key relationships include:
-
-- Product ↔ Category
-- Product ↔ Batch
-- Product ↔ Inventory
-- Supplier ↔ Goods Receipt
-- Employee ↔ Inventory Transactions
-
----
-
-## User Interface Design
-
-Prototype screens were designed using Figma.
-
-Main screens:
-
-- Dashboard
-- Product Management
-- Inventory Receiving
-- Inventory Issuing
-- Inventory Tracking
-- Inventory Audit
-- Reporting
-
----
-
-## Tools Used
-
-- Draw.io
-- Figma
-- Microsoft Word
-- Microsoft SQL Server
-
----
-
-## Key Skills Demonstrated
-
-### Business Analysis
-
-- Requirement Elicitation
-- Requirement Analysis
-- Stakeholder Analysis
-- Business Process Analysis
-
-### System Analysis
-
-- Functional Modeling
-- Data Flow Modeling
-- Database Design
-- System Specification
-
-### Documentation
-
-- Business Documentation
-- Requirement Documentation
-- Technical Documentation
-
----
-
-## Academic Information
-
-| Item | Details |
-|--------|--------|
-| University | National Economics University |
-| Faculty | Management Information Systems |
-| Course | Systems Analysis and Design |
-| Project Type | Individual Academic Project |
-
----
-
-## Author
-
-**Linh Ngoc**
-
-Business Analyst / System Analyst
-
-National Economics University
+Phone: 0363092652
